@@ -1,0 +1,27 @@
+{
+  "name": "nomadutube",
+  "version": "1.0.0",
+  "description": "Let's go~",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mj0303/nomadutube.git"
+  },
+  "scripts": {
+    "dev": "nodemon --exec babel-node index.js"
+  },
+  "author": "mj0303",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mj0303/nomadutube/issues"
+  },
+  "homepage": "https://github.com/mj0303/nomadutube#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/node": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "nodemon": "^2.0.15"
+  }
+}
