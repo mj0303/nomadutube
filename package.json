@@ -16,7 +16,9 @@
   },
   "homepage": "https://github.com/mj0303/nomadutube#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "python": "^0.0.4"
   },
   "devDependencies": {
     "@babel/core": "^7.16.5",
